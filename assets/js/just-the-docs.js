@@ -44,7 +44,7 @@ function initNav() {
 
 function initSearch() {
   var request = new XMLHttpRequest();
-  request.open('GET', 'http://localhost:4000/gold-making-bible/assets/js/search-data.json', true);
+  request.open('GET', 'https://wow-gold.github.io/gold-making-bible/assets/js/search-data.json', true);
 
   request.onload = function(){
     if (request.status >= 200 && request.status < 400) {
