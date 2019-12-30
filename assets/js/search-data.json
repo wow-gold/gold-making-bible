@@ -1,0 +1,52 @@
+{
+  
+  "0": {
+    "title": "",
+    "content": "404 . Page not found :( . The requested page could not be found. .",
+    "url": "http://localhost:4000/gold-making-bible/404.html",
+    "relUrl": "/404.html"
+  }
+  ,"1": {
+    "title": "February",
+    "content": "Love is in the Air .",
+    "url": "http://localhost:4000/gold-making-bible/docs/events/february.html",
+    "relUrl": "/docs/events/february.html"
+  }
+  ,"2": {
+    "title": "",
+    "content": "updates 2.0 .",
+    "url": "http://localhost:4000/gold-making-bible/",
+    "relUrl": "/"
+  }
+  ,"3": {
+    "title": "Events",
+    "content": "Events by Month .",
+    "url": "http://localhost:4000/gold-making-bible/docs/events/",
+    "relUrl": "/docs/events/"
+  }
+  ,"4": {
+    "title": "Mounts",
+    "content": "Test .",
+    "url": "http://localhost:4000/gold-making-bible/docs/farming/mounts/",
+    "relUrl": "/docs/farming/mounts/"
+  }
+  ,"5": {
+    "title": "Farming",
+    "content": "hai .",
+    "url": "http://localhost:4000/gold-making-bible/docs/farming/",
+    "relUrl": "/docs/farming/"
+  }
+  ,"6": {
+    "title": "January",
+    "content": "Farming Content .",
+    "url": "http://localhost:4000/gold-making-bible/docs/events/january.html",
+    "relUrl": "/docs/events/january.html"
+  }
+  ,"7": {
+    "title": "Vial of the Sands",
+    "content": "is a staple of making gold. Even if you don’t have the recipe, the materials that are used in this recipe can easily be farmed and sell for a pretty penny. . The materials used are: . x 1 | x 8 | x 12 x 3 | x 10 | x 10 | x 10 | . | x 8 | x 8 | x 8 | .",
+    "url": "http://localhost:4000/gold-making-bible/docs/farming/mounts/vots.html",
+    "relUrl": "/docs/farming/mounts/vots.html"
+  }
+  
+}
