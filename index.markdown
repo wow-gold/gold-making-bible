@@ -6,4 +6,4 @@ layout: home
 ---
 <script>var whTooltips = {colorLinks: true, iconizeLinks: true, renameLinks: true};</script>
 <script src="https://wow.zamimg.com/widgets/power.js"></script>
-<a  data-wowhead="item=2828">hai</a>
+<a  data-wowhead="item=2828">updates</a>
